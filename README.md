@@ -1,7 +1,10 @@
 # MVI Architecture design pattern example with Job and channels coroutines and jetpackcompose
 1- App has two main sections first one use counter example app with coroutines channels
+
 2 section part example list of films with coroutines channels and jobs
+
 3-App is implemented by MVI (Model View Intent) architecture design pattern.
+
 4-This example helps to learn how to use MVI with Job and channels coroutines and jetpackcompose.
 
 # Screenshots and video
